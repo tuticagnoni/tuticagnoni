@@ -14,12 +14,12 @@
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/npm.png"></code>
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/firebase.png"></code>
 
-📈 My github stats
+📈  **My github stats**
 
 ![Tuti's github stats](https://github-readme-stats.vercel.app/api?username=tuticagnoni&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
-💬 Ask me about anything, I am happy to help :)
+💬  **Ask me about anything, I am happy to help** :)
 
 <a href="https://www.linkedin.com/in/agustina-cagnoni/" target="_blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/b7b667e7e117dccf77abebb6206149cf3ac5d67b/images/linkedin.svg" width="100" height="35" />
 </a>
