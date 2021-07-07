@@ -5,21 +5,13 @@
 ✨**Languages and Tools:**✨
 
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/html.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/css.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/bootstrap.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/sass.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/js.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/reactjs.png"></code>
-
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/git.png"></code>
-
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/npm.png"></code>
-
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/firebase.png"></code>
 
 📈 My github stats
