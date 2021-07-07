@@ -2,7 +2,7 @@
 
 <br />
 
-✨**Languages and Tools:**✨
+✨ **Languages and Tools:**  ✨
 
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/css.png"></code>
