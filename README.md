@@ -16,16 +16,17 @@
 
 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tuticagnoni&show_icons=true&theme=radical" alt="tuticagnoni" />
+[![Tuti's github stats]<img src="https://github-readme-stats.vercel.app/api?username=tuticagnoni&show_icons=true&theme=radical" alt="tuticagnoni" />]
 
 <br>
 
-- 💼 You can reach me at, [email](mailto:tuti1997cagnoni@gmail.com)
-- 💬 Ask me about anything, I am happy to help :)
+💬 Ask me about anything, I am happy to help :)
 
-<a href="https://www.linkedin.com/in/agustina-cagnoni/">
-  <img align="left" alt="tuticagnoni's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/linkedin.png" />
+<a href="https://www.linkedin.com/in/agustina-cagnoni/" target="_blank"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/b7b667e7e117dccf77abebb6206149cf3ac5d67b/images/linkedin.svg" width="100" height="35" />
 </a>
+<a href="mailto:tuti1997cagnoni@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/b7b667e7e117dccf77abebb6206149cf3ac5d67b/images/google-gmail.svg" title="Email" width="100" height="35" />
+</a>
+
 
 
 <!--
