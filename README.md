@@ -16,7 +16,7 @@
 
 📈 My github stats
 
-[![Tuti's github stats]<img src="https://github-readme-stats.vercel.app/api?username=tuticagnoni&show_icons=true&theme=radical" alt="tuticagnoni" />]
+[![Tuti's github stats](https://github-readme-stats.vercel.app/api?username=tuticagnoni&show_icons=true&theme=radical")]
 
 <br>
 
