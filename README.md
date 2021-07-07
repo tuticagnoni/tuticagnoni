@@ -16,8 +16,7 @@
 
 📈 My github stats
 
-[![Tuti's github stats](https://github-readme-stats.vercel.app/api?username=tuticagnoni&show_icons=true&theme=radical")]
-
+![Tuti's github stats](https://github-readme-stats.vercel.app/api?username=tuticagnoni&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
 💬 Ask me about anything, I am happy to help :)
