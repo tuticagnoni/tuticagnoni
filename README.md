@@ -16,12 +16,6 @@
 
 <br />
 
-📈  **My github stats**
-
-![Tuti's github stats](https://github-readme-stats.vercel.app/api?username=tuticagnoni&count_private=true&show_icons=true&theme=tokyonight)
-<br>
-
-<br />
 
 💬  **Ask me about anything, I am happy to help** :)
 
@@ -29,6 +23,15 @@
 </a>
 <a href="mailto:tuti1997cagnoni@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/b7b667e7e117dccf77abebb6206149cf3ac5d67b/images/google-gmail.svg" title="Email" width="100" height="35" />
 </a>
+
+
+<br />
+
+
+📈  **My github stats**
+
+![Tuti's github stats](https://github-readme-stats.vercel.app/api?username=tuticagnoni&count_private=true&show_icons=true&theme=tokyonight)
+<br>
 
 
 
