@@ -1,4 +1,4 @@
-### Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Agustina. I'm a Front-End Developer from Argentina.
+### Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Agustina. I'm a Web Designer from Argentina.
 
 <br />
 
@@ -9,10 +9,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/tuticagnoni/tuticagnoni/main/images/reactjs.png"></code>
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/git.png"></code>
 <code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/npm.png"></code>
-<code><img height="30" src="https://github.com/tuticagnoni/tuticagnoni/blob/main/images/firebase.png"></code>
 
 <br />
 
